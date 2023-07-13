@@ -1,1 +1,4 @@
-Battleship: игра написана на js основываясь на упражнениях из книги «Head first O’Reilly Изучаем Javascript»
+# Battleships
+
+Игра написана на нативном js
+Из упражнений книги «Head first O’Reilly Изучаем Javascript»
